@@ -1,0 +1,25 @@
+# NeuralVision - 100% free & open source
+# PyTorch (BSD-style license)
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Hugging Face Transformers - DETR and other transformer models (Apache 2.0)
+transformers>=4.30.0
+timm>=0.9.0
+
+# YOLOv8 - faster and often better recognition (AGPL-3.0)
+ultralytics>=8.0.0
+
+# Computer vision & I/O
+opencv-python-headless>=4.8.0
+Pillow>=10.0.0
+mediapipe>=0.10.0
+
+
+# GUI (optional for CLI-only use)
+tkinterdnd2>=0.3.0
+
+# Utilities
+certifi>=2023.0.0
+numpy>=1.24.0
+tqdm>=4.65.0
